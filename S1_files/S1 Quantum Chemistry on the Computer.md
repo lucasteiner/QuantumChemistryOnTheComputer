@@ -1,6 +1,6 @@
 
 ## Intro and Discussion (~30 Min)
-- [S1_files/Goals](S1_files/Goals)  
+- [S1_files/Goals.md](S1_files/Goals.md)  
 - [S1\ Questions](S1\ Questions)
 
 ## Linux Crash Course (~30 Min)
