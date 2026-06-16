@@ -43,4 +43,4 @@ Hence, we get a multireference character, and we need to make sure to find the l
 
 
 #### Continue with
-[[Geometry Optimization Exercise]]
+[Geometry Optimization Exercise](Geometry Optimization Exercise)

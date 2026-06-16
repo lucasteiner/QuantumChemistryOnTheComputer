@@ -50,7 +50,7 @@ In the end, everyone should be able to contribute 5-10 energy distance pairs to 
 #### Using the Interval Method (optional)
 
 If you finished, get bored or would like to understand a more complicated algorithm, 
-there are nice systematic ways of dealing with this problem like [[The Interval Method]]
+there are nice systematic ways of dealing with this problem like [The Interval Method](The Interval Method)
 
 
 #### Protocol (Geometry Optimization Exercise)

@@ -6,7 +6,7 @@ gedit co.inp
 
 Insert the following content in the white graphical user interface.
 
-![[ExampleInput]]
+![ExampleInput](ExampleInput)
 
 - PBE0: The hybrid density functional of Perdew Burke and Ernzerhof. The corresponding papers are mentioned upon the [most cited papers ever](https://www.nature.com/news/the-top-100-papers-1.16224)
 - def2-TZVP: def2 "Karlsruhe" **T**riple **Z**eta **V**alence **P**olarization Basis Set, 
@@ -207,7 +207,7 @@ TOTAL RUN TIME: 0 days 0 hours 0 minutes 1 seconds 46 msec
 
 
 #### Continue: 
-[[AvogadroGuide]]
+[AvogadroGuide](AvogadroGuide)
 
 #### Back to:
-[[S1 Quantum Chemistry on the Computer]]
+[S1 Quantum Chemistry on the Computer](S1 Quantum Chemistry on the Computer)

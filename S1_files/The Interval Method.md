@@ -28,4 +28,4 @@ The interval method is a straightforward **optimization technique** that’s esp
     - Stop once the interval between the outer points $a$ and $c$ is sufficiently small (up to 0.001 A).
 
 #### Back to:
-[[Geometry Optimization Exercise]]
+[Geometry Optimization Exercise](Geometry Optimization Exercise)

@@ -51,4 +51,4 @@ Compare the calculated value to the [[CODissoziationEnergyLiterature|literature 
 
 
 #### Back to
-[[S1 Quantum Chemistry on the Computer]]
+[S1 Quantum Chemistry on the Computer](S1 Quantum Chemistry on the Computer)

@@ -33,7 +33,7 @@ With this command you can
 - open and change old files
 
 When you opened the text editor, copy the following lines, click save and quit. We will use this file in the next exercise.
-![[ExampleInput]]
+![ExampleInput](ExampleInput)
 
 
 Further hints, 
@@ -41,10 +41,10 @@ Further hints,
 - try out the tabulator for autocompletion
 
 
-Now continue with: [[Your First Single Point Calculation using Orca]]
+Now continue with: [Your First Single Point Calculation using Orca](Your First Single Point Calculation using Orca)
 ## More shell commands
 
 ![[linuxcommands.png]]
 
 #### Back to:
-[[S1 Quantum Chemistry on the Computer]]
+[S1 Quantum Chemistry on the Computer](S1 Quantum Chemistry on the Computer)

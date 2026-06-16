@@ -17,4 +17,4 @@ o 0.0 0.0 1.1030
 - How does the optimized bond distance compare to the experimental value of [1.128 A](https://cccbdb.nist.gov/exp2x.asp?casno=630080&charge=0)
 
 #### Continue with 
-[[Preparing the Data Set for S2]]
+[Preparing the Data Set for S2](Preparing the Data Set for S2)

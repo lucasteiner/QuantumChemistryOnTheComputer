@@ -116,4 +116,4 @@ FINAL SINGLE POINT ENERGY       -75.324154395464
 after which the dipole moment for the system is printed and the file ends.
 
 
-[[co.out]]
+[co.out](co.out)

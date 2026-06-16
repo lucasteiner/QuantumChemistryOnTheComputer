@@ -13,9 +13,9 @@
  **Files without File extensions**:
     - In Linux, everything is treated as file. A file contains information in different formats, (e. g. binary for executable programs, ASCII for textfiles). Today, we will create and edit a lot of ASCII files and run programs like orca on them.
     -  You can name files as you like. This is different in windows, where ASCII files usually end with **.txt** . However, it is useful to stick to some conventions. We will deal with the following extensions: 
-	    - **.inp** : orca-input files [[ExampleInput]]
-	    - **.out** : orca-output files [[The Orca Output File of H2O|ExampleOutput]]
-	    - **.xyz** : xyz-files [[Example xyz-file]]
+	    - **.inp** : orca-input files [ExampleInput](ExampleInput)
+	    - **.out** : orca-output files [The Orca Output File of H2O|ExampleOutput](The Orca Output File of H2O|ExampleOutput)
+	    - **.xyz** : xyz-files [Example xyz-file](Example xyz-file)
 	
  **Keyboard Shortcuts**:
 - Common shortcuts change when using the terminal (e.g., `Ctrl+C` to cancel a command, `Ctrl+Shift+C` to copy, `Ctrl+Shift+V` to paste).
@@ -29,4 +29,4 @@
  **Community and Resources**:
 - Debian and Linux, in general, have a strong community. They can find answers and tips on forums like Stack Exchange, AI or through a simple web search.
 
-Now continue with: [[Basic Terminal Commands]]
+Now continue with: [Basic Terminal Commands](Basic Terminal Commands)
