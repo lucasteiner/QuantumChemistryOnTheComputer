@@ -1,6 +1,6 @@
 
 ## Intro and Discussion (~30 Min)
-- [Goals](QuantumChemistryOnTheComputer/S1_files/Goals.md)
+- [Goals](S1_files/Goals.md)
 - [QuantumChemistryOnTheComputer/S1_files/Goals.md)](Goals)
 
 - [S1\ Questions](S1\ Questions)
